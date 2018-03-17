@@ -8,6 +8,6 @@ public class TestGit {
 		this.gitFromScratch = parameter;
 	}
 	public String returnTheString(){
-		return this.gitFromScartch;
+		return this.gitFromScratch;
 	}
 }
